@@ -52,7 +52,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="img01.jpeg"
+      src="img/img01.jpeg"
     />
     <p>&nbsp&nbsp&nbspWesley Souza<br>
     &nbsp&nbsp&nbsp
