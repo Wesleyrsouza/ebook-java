@@ -38,8 +38,8 @@ Copilot：
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- Todas as imagens  do projeto em `img`
+- Ebook no formato ppwt e pdf em `ebook`
 
 ## 🛠️ Instruções de execução
 
