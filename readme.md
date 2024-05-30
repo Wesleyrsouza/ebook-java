@@ -6,7 +6,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/Wesleyrsouza/ebook-java/blob/main/O%20Enigma%20de%20Java%20e%20O%20Pr%C3%ADncipe%20Programador.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Wesleyrsouza/ebook-java/blob/main/ebook/O%20Enigma%20de%20Java%20e%20O%20Pr%C3%ADncipe%20Programador.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -21,8 +21,8 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | crie um título de um ebook sobre o tema de Java, o ebook é do nicho de programação e o subnicho é de Java, o titulo deve ser épico e curto, e tenha uma temática mais nerd, uma temática de harry potter, liste 5 variações de título                                           |
+| conteúdo | faça um texto para ebook, com foco em java, listando os principais seletores java com exemplos em código {REGRAS} >Explique sempre de uma maneira simples >Deixe o texto enxuto >Sempre traga exemplos de código em contexto reais >Sempre deixe um título sugestivo por tópico |
 
 
 Copilot：
@@ -38,8 +38,9 @@ Copilot：
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- Ebook no formato de pptx e pdf em `ebook`
+- Todas as fontes utilzidas em `font`
+- Todas as imagens do projeto em `img`
 
 ## 🛠️ Instruções de execução
 
@@ -52,7 +53,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="img01.jpeg"
+      src="img/img01.jpeg"
     />
     <p>&nbsp&nbsp&nbspWesley Souza<br>
     &nbsp&nbsp&nbsp
