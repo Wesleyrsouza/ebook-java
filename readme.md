@@ -33,8 +33,8 @@ Copilot：
 
 ## ✨ Features
 
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via Copilot
+- Conteúdo gerado via <a href = "https://chat.openai.com/">ChatGPT </a>
+- Imagens geradas via <a href = "https://copilot.microsoft.com/">Copilot </a>
 
 ## 📚 Materiais
 
